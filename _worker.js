@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://api.openai.com';
+const TELEGRAPH_URL = 'http://web.zwyxxd.press:9980';
 
 
 export default {
